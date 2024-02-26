@@ -1,3 +1,7 @@
+id="plugin.program.openwizard"
+version="2.0.7"
+zip="url.to.wizard"
+
 name="Ed's Build"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/20linn6i7gp3m330z8o0a/edsbuild-1.0.zip?rlkey=wfk8fzxxg1vl8xdgmpp6l6bea&dl=0"
