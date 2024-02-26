@@ -1,6 +1,6 @@
 id="plugin.program.openwizard"
 version="2.0.7"
-zip="url.to.wizard"
+zip="https://github.com/edwinnettles/repository.edwinnettles/blob/master/plugin.program.openwizard-2.0.7.zip"
 
 name="Ed's Build"
 version="1.0"
