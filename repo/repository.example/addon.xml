@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="v1.0" name="edwinnettles.github.io" version="v1.0" provider-name="edwinnettles">
+<addon id="edwinnettles.repo-1.0.0" name="edwinnettles.github.io" version="v1.0" provider-name="edwinnettles">
     <extension point="xbmc.addon.repository" name="Eds Repo">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/edwinnettles/edwinnettles.github.io/master/repo/zips/addons.xml</info>
